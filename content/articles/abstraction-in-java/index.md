@@ -1,12 +1,12 @@
 ### Introduction
-Abstraction refers to  process of exposing the vital elements of a software while obscuring the background details from the user. Only the essential details are displayed to the user while the non-essential or trivial are hidden because the user is not required to know them. Data abstraction is the process of displaying only the [necessary components of an object while eliminating all other information](https://www.geeksforgeeks.org/abstraction-in-java-2). 
+Abstraction refers to  process of exposing the vital elements of a software while obscuring the background details from the user. Only the essential details are displayed to the user while the non-essential or trivial are hidden because the user is not required to know them. Data abstraction is the process of displaying only the necessary components of an object while eliminating all other information
 
-An object's characteristics and behaviors differentiate it from other objects of the same type, as well as classify and group them. Using a simple example, we can think of abstraction like driving a vehicle. We only deal and know what is required of us but don’t know the mechanism behind the movement. Interfaces and abstract classes are [used in Java to achieve abstraction](https://astikanand.github.io/techblogs/java/object-oriented-programming). This article will go through how we can accomplish complete data abstraction using interfaces and Java abstract class and methods.
+An object's characteristics and behaviors differentiate it from other objects of the same type, as well as classify and group them. Using a simple example, we can think of abstraction like driving a vehicle. We only deal and know what is required of us but don’t know the mechanism behind the movement. Interfaces and abstract classes are [used in Java to achieve abstraction This article will go through how we can accomplish complete data abstraction using interfaces and Java abstract class and methods.
 
 ### Prerequisites
 Before you begin reading this article, you will need the following:
 - A basic understanding of Java.
-- An Intellij ntegrated development environment.
+- An Intellij integrated development environment.
 
 ### Table of Contents
 1. [Ways to achieve data abstraction](#ways-to-achieve-data-abstraction)
